@@ -8,11 +8,14 @@ original Plot:
 
 Using 20 and 200 
 
-![](images/20_200.png)
+
+![20_200](https://user-images.githubusercontent.com/85423683/135708322-6db1f757-39cb-401f-9350-ae00e92a7dca.PNG)
+
 
 Using 10 and 360
 
-![](images/10_360.png)
+![10_360](https://user-images.githubusercontent.com/85423683/135708340-96e585df-806f-4b1d-8497-b16d8ebd2f96.PNG)
+
 
 
 ## Using ADA Boost
@@ -20,20 +23,24 @@ The original Dataset had a lower accuarcy rating then SVM the rating was 52%. We
 
 original Plot:
 
-![](images/ada_original.png)
+
+![ada_original](https://user-images.githubusercontent.com/85423683/135708348-abf0f091-2bf7-48be-a1e6-6bcf90a74d1f.PNG)
+
 
 Using 20 and 200 
 
-![](images/ada_20_200.png)
+![ada_20_200](https://user-images.githubusercontent.com/85423683/135708354-6f118c8e-b3c2-4510-bf44-01bc9f3a436e.PNG)
+
 
 Using 10 and 360
 
-![](images/ada_10_360.png)
+![ada_10_360](https://user-images.githubusercontent.com/85423683/135708359-84ca4b94-ef2c-4484-8baf-366f545d7dec.PNG)
+
 
 Bonus Tight window 25 and 100
 
 
-![](images/ada_25_100.png)
+![ada_25_100](https://user-images.githubusercontent.com/85423683/135708366-e3a54a2c-be33-422c-a99d-91e61f2d5ed6.PNG)
 
 
 
