@@ -1,8 +1,8 @@
 # module_14_challenge
 
 For SVM when the window size changes the total accuracy will stay relatively the same of 55% but the values of percision, recall, and f1-score will change. I ran 3 test one with a significant increase from 100 to 360 for long and 10 for short, in this case the f1 score increase for the -1 signal by .01 which is insignificant much like this score the other catergories had minute changes. When I increased the short window to 20 and long to 200 the accuarcy was still 55 but the recall for -1 was higher went from .07 to .22 also recall increase by .11 percision had a slight increase. The Final product was an extreme small window 2 and 25. In this window set accuarcy dropped by 1% and the numbers moved slightly but nothing was drastic. It looks like the best window I used was 20 and 200 due to higher recall and f1-score.
-
-output.png
+original Plot:
+![](images/output.png)
 
 
 ## Using ADA Boost
